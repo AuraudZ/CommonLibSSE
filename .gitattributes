@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+*.as linguist-language=ActionScript
+\!Update.ps1 linguist-vendored

@@ -1,0 +1,6 @@
+/build*
+CMakeUserPresets.json
+/out*
+/.vs*
+/.idea
+CMakeLists.txt.disabled
